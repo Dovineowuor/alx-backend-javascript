@@ -12,3 +12,4 @@ node_modules/@babel/code-frame/README.md
 node_modules/@babel/code-frame/README.md
 node_modules/@babel/compat-data/corejs2-built-ins.js
 node_modules/@ampproject/remapping/dist/types/source-map-tree.d.ts
+*.mjs
