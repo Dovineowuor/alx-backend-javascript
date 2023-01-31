@@ -1,16 +1,2 @@
-
-node_modules/@ampproject/remapping/dist/types/source-map.d.ts
-node_modules/@ampproject/remapping/LICENSE
-node_modules/@ampproject/remapping/dist/types/source-map.d.ts
-node_modules/@ampproject/remapping/package.json
-node_modules/@ampproject/remapping/README.md
-node_modules/@babel/code-frame/lib/index.js
-node_modules/@babel/code-frame/LICENSE
-node_modules/@babel/code-frame/package.json
-node_modules/@babel/code-frame/package.json
-node_modules/@babel/code-frame/README.md
-node_modules/@babel/code-frame/README.md
-node_modules/@babel/compat-data/corejs2-built-ins.js
-node_modules/@ampproject/remapping/dist/types/source-map-tree.d.ts
+*node_modules
 *.mjs
-alx-backend-javascript\node_modules
